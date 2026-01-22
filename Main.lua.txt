@@ -1,3 +1,4 @@
+- THIS SCRIPT IS PROTECTED BY ZENITH OBFUSCATOR BETA V1.5.2
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 function FvQlvnyDhIYfCJOLQCPTtHZCuIAGbkmzTJJkvdZpYiMoQKmyJRdjWzNrYTwqDTkuTfIQKswFXTXlmWPH(data) m=string.sub(data, 0, 364) data=data:gsub(m,'')
 
